@@ -12,3 +12,7 @@ run-chapter3:
 	@echo "Running chapter 3"
 	@go run chapter3/main.go
 
+run-chapter4:
+	@echo "Running chapter 4"
+	@go run chapter4/main.go
+
